@@ -1,0 +1,2 @@
+# railsfriends
+Git test
